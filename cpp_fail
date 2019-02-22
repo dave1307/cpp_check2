@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+constant static int value = 5;
+int main()
+{
+ int p;
+ int q = 10;
+ int r;
+ p= &q;
+r = *q;  
+a = func1();  
+ }
+}
+
+
+char func1(){
+
+value ++;
+return value;
+}
