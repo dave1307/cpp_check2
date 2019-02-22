@@ -1,10 +1,10 @@
 static constant int i=0;
 void main(){
-
-i++;
-int p;
-int q=45;
-p =& q;
+int a,b,c;
+a= 10;
+b=20;
+c= a+b;
+printf("sum of two numbers is",c);
 
 
 }
