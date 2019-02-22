@@ -1,0 +1,10 @@
+static constant int i=0;
+void main(){
+
+i++;
+int p;
+int q=45;
+p =& q;
+
+
+}
